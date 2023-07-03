@@ -19,4 +19,4 @@
  - "https://static.bc-edx.com/data/web/mars_facts/temperature.html"
  - Jupyter Notebook
  - Visual Studio
- - recieved assistence from AskBCS, tutors, and fellow classmates
+ - recieved assistance from AskBCS, tutors, and fellow classmates
